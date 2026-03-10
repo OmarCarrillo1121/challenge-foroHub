@@ -31,5 +31,6 @@ Para probar esta API en tu computadora, sigue estos pasos:
 
 # Lo que aprendí
 En este reto aprendí a manejar los diferentes métodos HTTP (GET, POST, PUT, DELETE) y a devolver los códigos de respuesta correctos según cada situación. El principal desafío fue estructurar la arquitectura del proyecto siguiendo las buenas prácticas y configurar las migraciones, lo cual me ayudó a entender cómo se gestionan los cambios en las bases de datos en entornos de desarrollo real, además comprendí el manejo Spring Boot para la creación de servicios web escalables.
+
 -------
 Si tienes algún consejo que me ayude a seguir mejorando como programador Back End, ¡será muy bien recibido! ¡Gracias por visitar mi proyecto!
